@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Simple shopping list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Aravindh",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.2"
+  }
+}
